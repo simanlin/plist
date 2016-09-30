@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://120.76.228.49/resource/hall.ipa</string>
+            <string>http://long7.club/downloads/hall.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://120.76.228.49/resource/512.png</string>
+            <string>http://long7.club/downloads/512.png</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,7 +27,7 @@
             <key>needs-shine</key>
             <true/>
             <key>url</key>
-            <string>http://120.76.228.49/resource/57.png</string>
+            <string>http://long7.club/downloads/57.png</string>
           </dict>
         </array>
         <key>metadata</key>
